@@ -6,6 +6,7 @@
 
 - [<b> AI Chatbot in WhatsApp 🤖</b> ](https://github.com/JAAR90/AI-Chat-in-WhatsApp/tree/main)
 
+- [<b> RAG AI Implementation Finance</b> ](https://github.com/JAAR90/RAG_Financial_assistance/tree/main)
     
 
 
